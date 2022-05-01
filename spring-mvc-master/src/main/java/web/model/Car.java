@@ -16,5 +16,4 @@ private String model;
 private Integer series;
 
 private Double volume;
-
 }
